@@ -4,6 +4,10 @@ A 3D interactive Mini Park built using OpenGL, showcasing advanced computer-grap
 This project was developed as part of the CSE 4208 – Computer Graphics Laboratory course at Khulna University of Engineering & Technology (KUET).
 ## DEMO 
 
+![Demo Video]()
+
+[https://github.com/user-attachments/assets/b0d7c267-145f-4e2d-b704-6e967db5fd9f](https://github.com/user-attachments/assets/1e60d7a0-e102-4495-ba1b-32bbcd39bd07)
+
 ## 📌 Project Overview
 
 - The Mini Park displays a lively virtual environment containing:
@@ -26,7 +30,7 @@ This project was developed as part of the CSE 4208 – Computer Graphics Laborat
 - GLM (matrix transformations)
 - Shader Programs
 - Textures (Diffuse, Specular)
-- VAO, VBO, EBO for efficient GPU data management
+- VAO, VBO, EBO 
 
 ## 🔧 Key Features
 ### 🌆 Environment Components
